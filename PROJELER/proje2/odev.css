@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(216,103,122);
+}
+
+
+.kutu1 {
+    background-color: rgb(56,50,50);
+width: 42px;
+height: 37px;
+float: right;
+margin-right: 1rem;
+margin-bottom: 1rem;
+
+}
+
+.clearfix{
+    clear: both;
+}
+.kutu{
+    background-color: rgb(68,63,63);
+width: 42px;
+height: 37px;
+float: left;
+margin-left: 1rem;
+margin-bottom: 1rem;
+
+
+
+
+}
